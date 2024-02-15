@@ -1,1 +1,2 @@
-create text.tct
+create text 2
+
